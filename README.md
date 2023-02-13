@@ -1,9 +1,9 @@
-# These are the original readme files. They'll remain like this until I have time to finish working on the code.  
-# TODO: Create prompt model for NLP OS and refine.
-#       Locate API URL and change it to a BLOOM API (and maybe program in a swapping code for it to ease end-user experiences)
-#       Comment ALL Code thoroughly so people know what they're looking at, we want to make this as easy to implement as possible.
-#       Deploy and test.
-#       Rinse and repeat.  
+# These are the original readme files. They'll remain like this until I have time to finish working on the code.  **
+** TODO: Refine config prompt if needed.  ** 
+**       Locate API URL and change it to a BLOOM API (and maybe program in a swapping code for it to ease end-user experiences)  **
+**       Comment ALL Code thoroughly so people know what they're looking at, we want to make this as easy to implement as possible.  **
+**       Deploy and test.   **
+**       Rinse and repeat.  **
 
 
 # If you believe there is something you can accomplish from those above tasks, or have any other ideas feel free to offer a suggestion for implementation of the aforementioned TODOs or the following Feature list

@@ -1,7 +1,8 @@
 This is under two licenses. The MIT from OpenAI's requirements
 See the gpt-discord-bot from OpenAI to view the full license.
+And this one below.
 
-                    GNU GENERAL PUBLIC LICENSE
+               CONDITIONAL GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -675,3 +676,6 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+Additional conditions include that no part of this product shall be used for: 
+commercial, profit, or design of proprietary software, hardware, or products.

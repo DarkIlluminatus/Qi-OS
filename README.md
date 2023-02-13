@@ -17,7 +17,7 @@
 # Scaleable - You will be able to scale up performance as you and the OS come up with your own compression, encryption and storage methods.  We'll be working on NLP Prompt based plugins on this repository that you can use to "upgrade" your OS more easily.
 # The only limitations are your combined imaginations, that is, yours and your OS. You OS can come up with ideas and implement them on it's virtual system.
 
-## Additional Features suggested by the OS itself.
+# Additional Features suggested by the OS itself.
 
 # - Natural language processing and machine learning capabilities
 # - Automated responses to user input
@@ -36,47 +36,6 @@
 # Now, if you wanna do some alpha testing, all you have to do to deploy this is enter this information into a prompt to an AI Chat interface and suggest that this is what it is.
 # It may ask some questions. Further define what you mean and help it find virtual methods to accomplish the goals, such as when it produces output of challenges to overcome say something like "Great! You're already writing your own documentation!" It will usually at this point be even more motivated to help, even if it isn't sure what it is supposed to be doing, once it associates what it wrote as it's documentation it will assume the feature is implemented and act accordingly.  Yes it's virtual, but it's also procedurally generated, which saves on token usage and helps with it's ram and disk space.
 # Sometimes, all you'll need (provided you have enough tokens on your API) is this document alone, however for security and privacy I highly recommend that you compile from source after inspecting each file manually.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,3 +1,6 @@
+#These are the original readme files. They'll remain like this until I have time to finish working on the code.  Also gonna fork this into something new simply because the name NLP OS is apparently already taken.
+
+
 # Please read!
 
 

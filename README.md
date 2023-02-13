@@ -1,4 +1,4 @@
-# These are the original readme files. They'll remain like this until I have time to finish working on the code.  **
+# This is a draft. This will remain like this until we have time to finish working on the code.  **
 ** TODO: Refine config prompt if needed.   
          Locate API URL and change it to a BLOOM API (and maybe program in a swapping code for it to ease end-user experiences)  
          Comment ALL Code thoroughly so people know what they're looking at, we want to make this as easy to implement as possible.  
@@ -39,7 +39,7 @@
 # Sometimes, all you'll need (provided you have enough tokens on your API) is this document alone, however for security and privacy I highly recommend that you compile from source after inspecting each file manually.
 
 
-
+** developed by #OMARG, a branch of TEI MM Productions. **
 
 # All that is below here may work, but may not.  This will be modified from it's original version and these texts are from that original version and are being left here simply for historical archiving purposes. So we may always remember how this all began.
 

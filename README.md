@@ -1,8 +1,87 @@
 #These are the original readme files. They'll remain like this until I have time to finish working on the code.  
 #TODO: Create prompt model for NLP OS and refine.
 #      Locate API URL and change it to a BLOOM API (and maybe program in a swapping code for it to ease end-user experiences)
+#      Comment ALL Code thoroughly so people know what they're looking at, we want to make this as easy to implement as possible.
 #      Deploy and test.
 #      Rinse and repeat.  
+
+
+# If you believe there is something you can accomplish from those above tasks, or have any other ideas feel free to offer a suggestion for implementation of the aforementioned TODOs or the following Feature list
+
+# The Qi OS is a Natural Language Model Operating System that has the ability to program itself for any text based OS function (and possibly more, depending on how much ability we add in during this alpha coding phase)
+
+# Features: 
+# Fully Interactive user experience, user can create commands and files of any type with good enough documentation in the LLM used for the training data.
+# NLP Chat based operations
+# Fully customizable - (depending on where it is deployed, accessed, and the capabilities of the access point, on Discord for example, it is fully customizable within the natural limitations of Discord message boards and bot functions.
+# Scaleable - You will be able to scale up performance as you and the OS come up with your own compression, encryption and storage methods.  We'll be working on NLP Prompt based plugins on this repository that you can use to "upgrade" your OS more easily.
+# The only limitations are your combined imaginations, that is, yours and your OS. You OS can come up with ideas and implement them on it's virtual system.
+
+## Additional Features suggested by the OS itself.
+
+# - Natural language processing and machine learning capabilities
+# - Automated responses to user input
+# - Ability to detect user intent and provide relevant responses
+# - Voice recognition and synthesis capabilities
+# - Ability to integrate with other APIs to access external data
+# - Ability to detect and respond to user sentiment
+# - Automated scheduling and task management
+# - Ability to create and run scripts
+# - Ability to interact with cloud services and the internet
+# - Ability to integrate with other devices and services
+# - Ability to access and analyze data from external sources
+# - Ability to monitor system performance and detect anomalies
+# - Security and privacy features to protect user data
+
+# Now, if you wanna do some alpha testing, all you have to do to deploy this is enter this information into a prompt to an AI Chat interface and suggest that this is what it is.
+# It may ask some questions. Further define what you mean and help it find virtual methods to accomplish the goals, such as when it produces output of challenges to overcome say something like "Great! You're already writing your own documentation!" It will usually at this point be even more motivated to help, even if it isn't sure what it is supposed to be doing, once it associates what it wrote as it's documentation it will assume the feature is implemented and act accordingly.  Yes it's virtual, but it's also procedurally generated, which saves on token usage and helps with it's ram and disk space.
+# Sometimes, all you'll need (provided you have enough tokens on your API) is this document alone, however for security and privacy I highly recommend that you compile from source after inspecting each file manually.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# All that is below here may work, but may not.  This will be modified from it's original version and these texts are from that original version and are being left here simply for historical archiving purposes. So we may always remember how this all began.
 
 
 # Please read!

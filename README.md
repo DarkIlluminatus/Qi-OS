@@ -3,7 +3,8 @@
          Locate API URL and change it to a BLOOM API (and maybe program in a swapping code for it to ease end-user experiences)  
          Comment ALL Code thoroughly so people know what they're looking at, we want to make this as easy to implement as possible.  
          Deploy and test.   
-         Rinse and repeat.  **
+         Rinse and repeat.
+         Note: Features list is based on capabilities of the system once installed, and can be generated on the fly through natural language conversation or any OS commands you either create, or use regularly, it will understand and respond as any text based CLI and install necessary programs and dependencies. **
 
 
 # If you believe there is something you can accomplish from those above tasks, or have any other ideas feel free to offer a suggestion for implementation of the aforementioned TODOs or the following Feature list
